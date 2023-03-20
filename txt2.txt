@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ad ad d sdadadasdadassd sd a das d sad sad as a sd
+=======
+dadasdadassd sd a das d sad sad as a sd
+>>>>>>> 20655d0 (soft reset and reach to 2 commit)
